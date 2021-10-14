@@ -1,7 +1,7 @@
 import random
-import colorama
-from colorama import init,Fore,Back,Style
-init(autoreset=True)
+# import colorama
+# from colorama import init,Fore,Back,Style
+# init(autoreset=True)
 
 YunMuTable={
     'iu':'Q',
