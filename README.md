@@ -12,3 +12,5 @@ Useful or useless projects for fun.
 一个在迷宫中绘制路径的小程序。
 ## Scientific Bullshit Generator
 输入主题，自动生成一篇狗屁不通的英文论文。
+## TimeRecorder
+一个记录日常时间开销的小工具，在程序内通过命令行控制。
