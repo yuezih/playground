@@ -13,3 +13,5 @@ Useful or useless projects for fun.
 一个记录日常时间开销的小工具，在程序内通过命令行控制。  
 ## Google Scholar Crawler
 爬取 Google Scholar 某一作者的所有论文的共同作者，以分析论文合作情况。  
+## Hopscotch
+暴力求解智商检测器（跳房子游戏）。
